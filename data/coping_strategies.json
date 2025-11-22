@@ -1,0 +1,18 @@
+{
+    "anxious": [
+        "Try slow breathing: inhale for 4 seconds, hold for 4, exhale for 6.",
+        "Notice 5 things you can see, 4 you can touch, 3 you can hear."
+    ],
+    "sad": [
+        "It might help to message a trusted friend or family member.",
+        "Writing your feelings down can sometimes bring clarity."
+    ],
+    "stressed": [
+        "Break your tasks into small steps and do just one.",
+        "Take a 5-minute break away from screens and move your body a little."
+    ],
+    "general": [
+        "Remember, it's okay to ask for help—you don't have to handle everything alone.",
+        "Be kind to yourself; you're doing your best right now."
+    ]
+}
